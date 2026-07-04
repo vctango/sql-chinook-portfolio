@@ -1,26 +1,20 @@
 # SQL Chinook Portfolio
 
-This repository contains SQL exercises, queries, and projects completed while learning SQL using the Chinook sample database.
+This repository contains SQL exercises, labs, and projects completed while studying SQL Foundations on Coursera using the Chinook sample database.
 
-## Topics Covered
+## Skills Practiced
 
 - SELECT
-- FROM
 - WHERE
 - ORDER BY
 - GROUP BY
 - HAVING
 - Views
+- Joins
 
-## Sample Queries
+## Course
 
-### Top Customers By Spending
-
-(Insert query here)
-
-### Artist Revenue Analysis
-
-(Insert query here)
+SQL Foundations (Coursera)
 
 ## Author
 
